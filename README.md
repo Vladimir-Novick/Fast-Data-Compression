@@ -1,2 +1,2 @@
 # Fast-Data-Compression
-Fast encode/decoding string on memory
+Fast Real-Time compression algorithm for micro-controller. 
